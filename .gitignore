@@ -1,0 +1,6 @@
+#macOS Files
+.DS_Store
+# cypress Folders
+target/
+#Others
+logs/
